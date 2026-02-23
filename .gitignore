@@ -1,0 +1,24 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos varios
+yolov8s.pt
+.dockerignore
+Dockerfile
+*.tar
+
+# Archivos Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
