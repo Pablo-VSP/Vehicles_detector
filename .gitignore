@@ -6,7 +6,6 @@ env/
 # Archivos varios
 yolov8s.pt
 .dockerignore
-Dockerfile
 *.tar
 
 # Archivos Python
